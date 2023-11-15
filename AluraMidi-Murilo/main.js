@@ -1,4 +1,4 @@
-alert('RAPAZ ELE TA SEM ZAP') 
+alert('Seja bem vindo Car Sound') 
 function tocaSom (seletorAudio) {
     const elemento = document.querySelector(seletorAudio);
 
